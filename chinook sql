@@ -1,0 +1,56 @@
+🎧 Chinook Music Store: Turning Data into Business Decisions
+🌟 The Story
+
+Imagine running a digital music store with thousands of tracks, customers from around the world, and daily transactions flowing in—but no clear understanding of what’s actually driving your business.
+
+This project dives into the Chinook Music Store database to answer a simple but powerful question:
+👉 “How can we use data to better understand customers and increase revenue?”
+
+Using SQL, I explored the database like a business analyst—uncovering patterns, trends, and insights hidden beneath raw data.
+
+🔎 What I Set Out to Discover
+
+I approached this project as if I were advising the company’s leadership team, focusing on:
+
+Who are our most valuable customers?
+Which genres and artists are driving sales?
+Where are we making the most money geographically?
+Are there untapped opportunities for growth?
+🧠 How I Solved It
+
+Using SQL, I broke down complex data into meaningful insights by:
+
+Joining multiple tables (customers, invoices, tracks, artists)
+Aggregating sales data to measure performance
+Writing subqueries and CTEs for deeper analysis
+Using window functions to rank and compare results
+📊 Key Discoveries
+💰 A small group of customers contributes a large portion of total revenue
+🌍 Sales are heavily concentrated in a few countries, revealing market dependency
+🎤 Certain artists and genres dominate, showing clear customer preferences
+📈 Revenue trends highlight opportunities for targeted marketing campaigns
+💼 Business Impact
+
+If this were a real business, these insights could help:
+
+Personalize recommendations for top customers
+Focus marketing on high-performing genres and regions
+Identify underperforming markets for expansion
+Improve overall sales strategy and customer retention
+🛠️ Skills Demonstrated
+SQL querying (Joins, Aggregations, Subqueries)
+Data analysis & business thinking
+Problem-solving with real-world datasets
+Translating data into actionable insights
+📂 What’s Inside
+📄 SQL scripts with all queries
+📊 Analytical questions and solutions
+🧠 Business-focused insights
+
+
+
+Analyzed the Chinook Music Store database using SQL to uncover insights on customer behavior, sales trends, and top-performing artists/genres.
+Utilized joins, aggregations, and advanced queries (CTEs, window functions) to deliver data-driven recommendations for improving revenue and business strategy.
+🚀 Final Thoughts
+
+This project showcases how SQL is more than just querying data—it's about telling a story with data and turning numbers into decisions.
